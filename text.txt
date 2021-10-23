@@ -1,2 +1,0 @@
-first line
-Git is free software.
