@@ -28,7 +28,7 @@
 
 git删除文件 `git rm  text.txt` `git commit -m'remove text.txt'`
 
-git 链接远程仓库： `git remote add origin git@github.com:upmiaomiao/upmiaomiao.git`
+git 链接远程仓库： `git remote add origin 地址`
 
 git 推送远程仓库（第一次）：`git push -u origin master`
 
