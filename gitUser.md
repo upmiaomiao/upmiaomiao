@@ -12,3 +12,5 @@
 
 历史记录：`git log ` or `git log --pretty=oneline` 
 
+回退版本 `git reset --hard HEAD^`
+
