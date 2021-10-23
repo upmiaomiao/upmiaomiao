@@ -37,4 +37,3 @@ git 推送远程仓库：`git push origin master`
 删除远程库（添加远程库时地址写错）：`git remote rm 名字`
 
 查看远程信息： `git remote -v`
-
