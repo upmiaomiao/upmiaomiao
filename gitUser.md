@@ -10,7 +10,13 @@
 
 查看difference ：`git diff`
 
-历史记录：`git log ` or `git log --pretty=oneline` 
+提交历史记录：`git log ` or `git log --pretty=oneline` 
 
 回退版本 `git reset --hard HEAD^`
+
+命令历史记录：`git reflog`
+
+回到未来： `git reset --hard 版本号`
+
+`HEAD指向的版本就是当前版本`
 
